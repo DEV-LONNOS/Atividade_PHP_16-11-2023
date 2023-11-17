@@ -1,0 +1,10 @@
+{
+    "name": "admin/projeto_php_composer_16_11_2023",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
